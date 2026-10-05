@@ -5,9 +5,8 @@
 </p>
 
 ## 👨‍💻 Sobre mim
-Curso Ciência da Computação e ajudo na empresa da família, um depósito de bebidas. 
-Gosto de aprender fazendo: pego um conceito, transformo em código e vou melhorando.
-Me interesso por programação, desenvolvimento web, banco de dados e cibersegurança.
+Curso Ciência da Computação. Gosto de aprender fazendo: pego um conceito, transformo em código e vou melhorando.
+Me interesso por programação, desenvolvimento back e front end, banco de dados e um pouco de redes.
 
 ## 🛠️ Tecnologias com que mexo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
