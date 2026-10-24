@@ -1,14 +1,23 @@
-<h1 align="center">Oi, eu sou o Willyan 👋</h1>
+<h1 align="center">Hello, I'm Willyan 👋</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação, aprendendo na prática e construindo coisas úteis.
+  Computer Science student who enjoys learning by building useful things, exploring new ideas, and improving along the way.
 </p>
 
-## 👨‍💻 Sobre mim
-Curso Ciência da Computação. Gosto de aprender fazendo: pego um conceito, transformo em código e vou melhorando.
-Me interesso por programação, desenvolvimento back e front end, banco de dados e um pouco de redes.
+<h1 align="center">Olá, eu sou o Willyan 👋</h1>
 
-## 🛠️ Tecnologias com que mexo
+<p align="center">
+  Estudante de Ciência da Computação. Gosto de aprender, desenvolver coisas novas e aprimorar meus conhecimentos na prática.
+</p>
+
+## 👨‍💻 About me | Sobre mim
+
+**English:** I study Computer Science and enjoy learning by turning ideas into code. I'm interested in software development, both back end and front end, databases, and a bit of networking.
+
+**Português:** Curso Ciência da Computação e gosto de aprender transformando ideias em código. Tenho interesse em desenvolvimento de software, tanto back end quanto front end, bancos de dados e um pouco de redes.
+
+## 🛠️ Technologies | Tecnologias
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -17,5 +26,7 @@ Me interesso por programação, desenvolvimento back e front end, banco de dados
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📫 Contato
+## 📫 Contact | Contato
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willyanalvesgomes@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willyan-alvesz/)
