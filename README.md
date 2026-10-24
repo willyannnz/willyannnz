@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Willyan </h1>
 
 <p align="center">
-  Computer Science student who enjoys learning by building useful things, exploring new ideas, and improving along the way.
+  Brazilian Computer Science student who enjoys learning by building useful things, exploring new ideas, and improving along the way.
 </p>
 
 <h1 align="center">Olá, eu sou o Willyan </h1>
