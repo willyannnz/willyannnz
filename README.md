@@ -1,10 +1,10 @@
-<h1 align="center">Hello, I'm Willyan 👋</h1>
+<h1 align="center">Hello, I'm Willyan </h1>
 
 <p align="center">
   Computer Science student who enjoys learning by building useful things, exploring new ideas, and improving along the way.
 </p>
 
-<h1 align="center">Olá, eu sou o Willyan 👋</h1>
+<h1 align="center">Olá, eu sou o Willyan </h1>
 
 <p align="center">
   Estudante de Ciência da Computação. Gosto de aprender, desenvolver coisas novas e aprimorar meus conhecimentos na prática.
@@ -31,5 +31,5 @@
 ## 📫 Contact | Contato
 
 **Email:** willyanalvesgomes@hotmail.com  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willyan-alvesz/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/willyan-alvesz/)
