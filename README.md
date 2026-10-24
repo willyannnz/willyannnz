@@ -7,7 +7,7 @@
 <h1 align="center">Olá, eu sou o Willyan </h1>
 
 <p align="center">
-  Estudante de Ciência da Computação. Gosto de aprender, desenvolver coisas novas e aprimorar meus conhecimentos na prática.
+  Estudante brasileiro de Ciência da Computação. Gosto de aprender, desenvolver coisas novas e aprimorar meus conhecimentos na prática.
 </p>
 
 ## 👨‍💻 About me | Sobre mim
